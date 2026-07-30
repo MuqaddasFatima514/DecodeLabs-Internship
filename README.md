@@ -24,11 +24,16 @@ Cleaned a raw e-commerce dataset by identifying and correcting data quality issu
 
 ---
 
-## Upcoming Projects
+## Project 2
 
-- ⏳ Project 2 – Coming Soon
-- ⏳ Project 3 – Coming Soon
-- ⏳ Project 4 – Coming Soon
+    In Progress...
+
+## Project 3
+
+
+---
+
+## Project 4
 
 ---
 
