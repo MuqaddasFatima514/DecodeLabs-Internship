@@ -55,9 +55,9 @@ During the cleaning process, the following tasks were completed:
 
 ## Repository Contents
 
-- **Raw_Dataset_for_Data_Analytics.xlsx** — Original dataset.
-- **Cleaned_Dataset_for_Data_Analytics.xlsx** — Cleaned and validated dataset.
-- **README.md** — Project documentation.
+- **Raw_Dataset_for_Data_Analytics.xlsx**; Original dataset.
+- **Cleaned_Dataset_for_Data_Analytics.xlsx**; Cleaned and validated dataset.
+- **README.md**; Project documentation.
 
 ---
 
