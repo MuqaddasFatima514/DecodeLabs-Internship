@@ -8,11 +8,10 @@ This repository contains my data cleaning projects completed as part of my inter
 Cleaned a raw e-commerce dataset by identifying and correcting data quality issues to improve consistency and usability for future analysis.
 
 ### Tasks Performed
-- Removed duplicate records
+- Checked for duplicate records
 - Handled missing values
 - Standardized data formatting
-- Corrected inconsistent entries
-- Renamed and organized column headers
+- Checked for inconsistency
 - Prepared the dataset for analysis
 
 ### Tools Used
