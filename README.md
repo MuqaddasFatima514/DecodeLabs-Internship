@@ -1,63 +1,35 @@
-# E-Commerce Data Cleaning Project
+# Excel Data Cleaning Portfolio
 
-## Overview
+This repository contains my data cleaning projects completed as part of my internship with **DecodeLabs**. Each project demonstrates my ability to clean, organize, and prepare raw datasets for analysis using Microsoft Excel.
 
-This project demonstrates the process of cleaning and preparing a raw e-commerce dataset using Microsoft Excel.
+## Project 1: E-Commerce Dataset Cleaning
 
-The objective was to identify and correct common data quality issues so the dataset becomes accurate, consistent, and ready for future analysis or visualization.
+### Overview
+Cleaned a raw e-commerce dataset by identifying and correcting data quality issues to improve consistency and usability for future analysis.
 
----
+### Tasks Performed
+- Removed duplicate records
+- Handled missing values
+- Standardized data formatting
+- Corrected inconsistent entries
+- Renamed and organized column headers
+- Prepared the dataset for analysis
 
-## Dataset
-
-**Dataset:** E-Commerce Dataset for Data Analytics
-
-The dataset contains information about customer orders, including:
-
-- Order ID
-- Date
-- Customer ID
-- Product
-- Quantity
-- Unit Price
-- Shipping Address
-- Payment Method
-- Order Status
-- Tracking Number
-- Items in Cart
-- Coupon Code
-- Referral Source
-- Total Price
-
----
-
-## Data Cleaning Tasks Performed
-
-During the cleaning process, the following tasks were completed:
-
-- Removed duplicate records.
-- Checked for missing or incomplete values.
-- Standardized formatting across columns.
-- Corrected inconsistent data entries where necessary.
-- Verified calculated values such as **Total Price**.
-- Removed temporary validation columns used during the cleaning process.
-- Ensured column names were clear and consistent.
-- Prepared the dataset for future data analysis.
-
----
-
-## Tools Used
-
+### Tools Used
 - Microsoft Excel (Web)
-- GitHub
+
+### Files
+- `Raw_Ecommerce_Dataset.xlsx`
+- `Cleaned_Ecommerce_Dataset.xlsx`
+- `Cleaned_Ecommerce_Dataset.csv`
 
 ---
 
-## Repository Contents
+## Upcoming Projects
 
-- **Raw_Dataset_for_Data_Analytics.xlsx**; Original dataset.
-- **Cleaned_Dataset_for_Data_Analytics.xlsx**; Cleaned and validated dataset.
-- **README.md**; Project documentation.
+- ⏳ Project 2 – Coming Soon
+- ⏳ Project 3 – Coming Soon
+- ⏳ Project 4 – Coming Soon
 
 ---
 
@@ -65,14 +37,7 @@ During the cleaning process, the following tasks were completed:
 
 - Data Cleaning
 - Data Validation
-- Handling Missing Values
-- Duplicate Detection
-- Data Standardization
+- Handling Missing Data
+- Data Formatting
 - Microsoft Excel
-- Preparing Data for Analysis
-
----
-
-## Project Outcome
-
-The final dataset is clean, consistent, and ready for use in business reporting, dashboards, or further data analysis.
+- Spreadsheet Organization
