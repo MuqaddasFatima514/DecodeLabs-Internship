@@ -24,7 +24,7 @@ Cleaned a raw e-commerce dataset by identifying and correcting data quality issu
 
 ---
 
-## Project 2
+## Project 2: Industrial Training Kit
 
     In Progress...
 
