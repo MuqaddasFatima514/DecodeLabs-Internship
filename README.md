@@ -26,8 +26,6 @@ Cleaned a raw e-commerce dataset by identifying and correcting data quality issu
 
 ## Project 2: Industrial Training Kit
 
-# Exploratory Data Analysis – E-Commerce Dataset
-
 ## Overview
 
 This project focuses on performing Exploratory Data Analysis (EDA) on a cleaned e-commerce dataset using Microsoft Excel as part of my internship with **DecodeLabs**.
