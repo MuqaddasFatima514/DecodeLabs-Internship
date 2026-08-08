@@ -15,7 +15,7 @@ Cleaned a raw e-commerce dataset by identifying and correcting data quality issu
 - Prepared the dataset for analysis
 
 ### Tools Used
-- Microsoft Excel (Web)
+- Microsoft Excel
 
 ### Files
 - `Raw_Ecommerce_Dataset.xlsx`
@@ -46,7 +46,7 @@ The analysis explores order performance, revenue, products, payment methods, mar
 
 ## Tools Used
 
-- Microsoft Excel (Web)
+- Microsoft Excel
 - Pivot Tables
 - Charts
 - Excel formulas
